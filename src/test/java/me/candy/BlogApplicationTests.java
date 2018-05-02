@@ -1,4 +1,4 @@
-package me.candy.blog;
+package me.candy;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
